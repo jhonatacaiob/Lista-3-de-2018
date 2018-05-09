@@ -1,2 +1,3 @@
-# Lista-3-de-2018
-Lista 3 da matéria de Programação Orientada a Objeto (POO)
+Lista 2 da matéria de Programação Orientada a Objeto (POO) 
+Lista sobre Estruturas de Repetição
+A lista está no repositório em formato Pdf
